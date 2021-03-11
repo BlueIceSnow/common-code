@@ -21,5 +21,6 @@
 *.tar.gz
 *.rar
 
-target/**
+/target/**
+**/target/**
 .idea
